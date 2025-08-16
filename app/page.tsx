@@ -57,7 +57,7 @@ export default function SignUpPage() {
         <div className="text-center mb-8 pt-8">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Sparkles className="h-8 w-8 text-primary" />
-            <h1 className="text-3xl font-bold text-foreground">plook</h1>
+            <h1 className="text-3xl font-bold text-foreground">plook!</h1>
           </div>
           <p className="text-lg text-muted-foreground">Connect your space with popup events</p>
         </div>

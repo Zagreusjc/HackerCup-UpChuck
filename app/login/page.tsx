@@ -40,7 +40,7 @@ export default function LoginPage() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Sparkles className="h-8 w-8 text-primary" />
-            <h1 className="text-3xl font-bold text-foreground">plook</h1>
+            <h1 className="text-3xl font-bold text-foreground">plook!</h1>
           </div>
           <p className="text-muted-foreground">Sign in to your account</p>
         </div>
