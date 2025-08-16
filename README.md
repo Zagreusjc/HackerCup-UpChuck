@@ -8,7 +8,7 @@ HOW TO RUN THE APP
 Steps(using the terminal):
 
 # 1. Clone the repository
-git clone repository-url
+git clone https://github.com/Zagreusjc/HackerCup-UpChuck.git
 cd project-folder
 
 # 2. Install React v18
