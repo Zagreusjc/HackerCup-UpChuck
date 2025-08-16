@@ -8,8 +8,8 @@ HOW TO RUN THE APP
 Steps(using the terminal):
 
 # 1. Clone the repository
-git clone <repository-url>
-cd <project-folder>
+git clone repository-url
+cd project-folder
 
 # 2. Install React v18
 npm install react@18 react-dom@18
